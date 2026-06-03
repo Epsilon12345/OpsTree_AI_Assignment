@@ -1,4 +1,5 @@
 # OpsTree_AI_Assignment
+
 Architecture overview:
 
 1. User uploads documents
@@ -30,8 +31,9 @@ Architecture overview:
         
 10. Return answer
  ## Setup
-
 ```bash
+#Generate your personal Gemini API key
+
 # Create virtual environment
 python -m venv venv
 
@@ -53,6 +55,8 @@ streamlit run app.py
 <img width="1025" height="865" alt="image" src="https://github.com/user-attachments/assets/0ea6d788-f235-4345-a054-3777e110a387" />
 
 # Assumptions taken:
+
+"User has sufficient tokens in their Gemini account" 
 
 "Queries are relevant to the files uploaded"
 
