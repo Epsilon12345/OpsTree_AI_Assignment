@@ -1,0 +1,31 @@
+INTRODUCTION TO MACHINE LEARNING
+
+Machine learning is a branch of artificial intelligence that enables systems to learn patterns from data.
+
+Types of Machine Learning
+
+1. Supervised Learning
+2. Unsupervised Learning
+3. Reinforcement Learning
+
+Common Tasks
+
+- Classification
+- Regression
+- Clustering
+- Recommendation Systems
+
+Popular Libraries
+
+- Scikit-learn
+- TensorFlow
+- PyTorch
+
+Model Development Process
+
+1. Data Collection
+2. Data Cleaning
+3. Feature Engineering
+4. Model Training
+5. Model Evaluation
+6. Deployment
