@@ -55,3 +55,9 @@ streamlit run app.py
 # Assumptions taken:
 
 "Queries are relevant to the files uploaded"
+
+"Uploaded Documents Contain Extractable Text"
+
+"Documents are written english language"
+
+"File size does not exceed 200MB"
